@@ -121,12 +121,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## **Contact**
 
 For any inquiries or issues, feel free to reach out:  
-**Email:** sanjayanbarasu2004@gmail.com 
-**GitHub:** [YourGitHubProfile](https://github.com/SanjayAnbarasu)
-"# Book_Doc_Appoinment_MERN" 
-"# Book_Doc_Appoinment_MERN" 
-"# Book_Doc_Appoinment_MERN" 
-"# Doctor_App" 
-"# Doctor_App" 
-"# Doctor_App" 
-"# Doctor_App" 
+**Email:**  sanjayanbarasu2004@gmail.com 
+**GitHub:**  [YourGitHubProfile](https://github.com/SanjayAnbarasu)
+ 
