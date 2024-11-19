@@ -122,5 +122,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 For any inquiries or issues, feel free to reach out:  
 **Email:**  sanjayanbarasu2004@gmail.com 
-**GitHub:**  [YourGitHubProfile](https://github.com/SanjayAnbarasu)
+**GitHub:**  [YourGitHubProfile]https://github.com/SanjayAnbarasu
  
